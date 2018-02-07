@@ -15,6 +15,7 @@ function logShout(string) {
  }
  
 
+<<<<<<< HEAD
 function sayHiToGrandma(string) {
 if (string.toLowerCase() === string)
 return "I can't hear you!"
@@ -26,3 +27,7 @@ if (string.toUpperCase() === string)
 if (string === "I love you, Grandma.")
 return "I love you, too."
 }
+=======
+
+ 
+>>>>>>> 65d010535c3747c62ddc7ec2a3bc07f8d3574a80
